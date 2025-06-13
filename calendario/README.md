@@ -36,22 +36,6 @@ vercel login
 vercel
 ```
 
-## Despliegue en Netlify
-
-1. Crea una cuenta en [Netlify](https://netlify.com)
-2. Instala Netlify CLI:
-```bash
-npm install -g netlify-cli
-```
-3. Inicia sesión en Netlify:
-```bash
-netlify login
-```
-4. Despliega el proyecto:
-```bash
-netlify deploy
-```
-
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
