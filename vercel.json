@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "buildCommand": "cd calendario && npm install && npm run build",
+  "outputDirectory": "calendario/dist",
+  "framework": "vite",
+  "installCommand": "cd calendario && npm install"
+} 
