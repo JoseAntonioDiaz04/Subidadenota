@@ -1,5 +1,5 @@
 {
-  "buildCommand": "npm run build",
+  "buildCommand": "/usr/local/bin/npm install && /usr/local/bin/npm run build",
   "outputDirectory": "dist",
   "framework": "vite",
   "rewrites": [
